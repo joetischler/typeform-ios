@@ -103,6 +103,7 @@
 		0CF46E041B05EFCC00578733 /* form_img@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "form_img@2x.png"; sourceTree = "<group>"; };
 		0CF46E061B06033100578733 /* Defines.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Defines.h; sourceTree = "<group>"; };
 		3E341E339868E66F115497F9 /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		514458321B45D66500AABD7F /* Defines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Defines.h; sourceTree = "<group>"; };
 		7BD558F2F4E1342F200561BA /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
 		F2EB8DC2AF572E1360E22A8F /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -175,6 +176,7 @@
 				0CF46DA61B04A7F800578733 /* LaunchScreen.xib */,
 				0CF46DEE1B04AE7600578733 /* Frameworks */,
 				0CF46D971B04A7F800578733 /* Supporting Files */,
+				514458321B45D66500AABD7F /* Defines.h */,
 			);
 			path = TypeForm;
 			sourceTree = "<group>";
